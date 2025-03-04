@@ -1,0 +1,24 @@
+{
+  "name": "exer-05-creating-web-servers-using-express-js-tanyamanaoat",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fO1z5voz)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanyamanaoat/exer-05-creating-web-servers-using-express-js-tanyamanaoat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanyamanaoat/exer-05-creating-web-servers-using-express-js-tanyamanaoat/issues"
+  },
+  "homepage": "https://github.com/tanyamanaoat/exer-05-creating-web-servers-using-express-js-tanyamanaoat#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
